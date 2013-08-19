@@ -8,10 +8,10 @@ Sample App demonstrate how one  can capture user activity in your Android app us
 
 # Build And Run
 
-1. Register with App42 platform.
+1. [Register] (https://apphq.shephertz.com/register) with App42 platform.
 2. Go to the dashboard and click on the Create App button.
 3. Fill all the mandatory fields and get your APIKey and SecretKey.
-4. Download App42 Android sample app and unzip it on your machine .
+4. [Download] (https://github.com/shephertz/App42-Android-Analytics/archive/master.zip) this sample app and unzip it on your machine .
 4. Open this Sample App in your eclipse IDE.
 5. Open the Constants.java in src of the package(app42Sample) and put your APIKey and SecretKey (which were received in step#2 & #3).
 6. Build and Run Sample App.
