@@ -3,7 +3,7 @@ App42-Android-Analytics
 
 # About Sample App
 
-Sample App demonstrate how one  can capture user activity in your Android app using App42  analytics feature which includes page/activity view and total time spend on particular activity. Here are the steps to build and run this application.
+Sample App demonstrate how one  can capture user activity in  Android app using App42  analytics feature which includes page/activity view and total time spend on particular activity. Here are the steps to build and run this application.
 
 
 # Build And Run
